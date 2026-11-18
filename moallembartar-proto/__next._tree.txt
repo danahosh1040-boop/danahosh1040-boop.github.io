@@ -1,4 +1,0 @@
-:HL["/moallembartar-proto/_next/static/chunks/3-j_27g4qhasb.css","style"]
-:HC["/",""]
-1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"hBC55EyKp84Zkvb2JoN6t","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
